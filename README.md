@@ -1,1 +1,1 @@
-FifteenPuzzle
+FifteenPuzzleSolver
